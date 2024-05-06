@@ -46,10 +46,4 @@
 
 ###
 
-<div align="left">
-  <img src="www.linkedin.com/in/ériton-soares-b42404250" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://mail.google.com/mail/u/0/#chats?compose=CllgCJlGVVxMzShTVNMnHDrQqDmTXVbhGbnRvbKrHkjvpjsdCPFMlFrTmWfqdTcwrhhQgrRmTdB" width="52" height="40" alt="gmail logo"  />
-  <img src="www.youtube.com/@ErinJr777" width="52" height="40" alt="youtube logo"  />
-</div>
-
 
