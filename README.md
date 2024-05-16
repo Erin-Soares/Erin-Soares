@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello World!! Meu nome é Eriton Soares.<br>E eu sou Programador e Analista de Dados T.I<br><br>*Abaixo um pouco sobre oque eu sei.</p>
+<p align="left">Hello World!! Meu nome é Eriton Soares.<br>E eu sou Programador e Analista de Dados T.I<br></p>
 
 ###
 
